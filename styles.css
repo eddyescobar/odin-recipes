@@ -1,0 +1,26 @@
+div {
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+li {
+    background-color: #ffffaa;
+    color: #000000;
+    text-align: justify;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+.title {
+    background-color: #000000;
+    color: #fff;
+    font-family: Helvetica, "Courier New", Monospace;
+}
+
+.list {
+    font-family: monospace;
+}
